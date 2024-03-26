@@ -51,10 +51,10 @@ git clone <your-codecommit-repo-clone-https-url>
 ```
 You will be prompted to enter your Git credentials. Enter the username and password that you downloaded earlier.
 
-
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part-1/17114423006958393725100909271482.jpg)
 You have now set up a CodeCommit repository and cloned it on your local machine using Git Credentials in AWS IAM.
 
-
+![](
 
 ## Task-02 : Add a new file from local and commit to your local branch
 
