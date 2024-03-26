@@ -21,6 +21,12 @@ Similarly, we are going to deploy same pipeline for source code but with AWS res
 
 ➡️ CodeCommit
 
+ ✍️ Task-1:  Set up a code repository on CodeCommit and clone it on your local.
+ ✍️ Task-2: You need to setup Git Credentials in your AWS IAM.
+ ✍️ Task-3: Add a new file from local and commit to your local branch
+ ✍️ Task-4: Push the local changes to CodeCommit repository.
+
+
 🎯 CI/CD pipeline on AWS -Part-2
 
 ➡️ CodeBuild
