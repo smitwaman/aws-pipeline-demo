@@ -15,7 +15,7 @@ for that configuration we have used devops tools as.
 11. Terraform
 
 
-Similarly, we are going to deploy same pipeline for source code but with AWS resources on cloud platform.Here we need only AWS account and source code.
+Similarly, we are going to deploy same functionality pipeline for source code but with AWS resources on cloud platform.Here we need only AWS account and source code.
 
 🎯 CI/CD pipeline on AWS -Part-1
 
