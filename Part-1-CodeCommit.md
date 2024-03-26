@@ -24,7 +24,7 @@ Go to the IAM console
 ![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part-1/17114421814297370581318621414267.jpg)
 Click on Users in the left-hand menu, and then click on your username.
 
-![](
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part-1/17114421922654049310732604512426.jpg)
 Scroll down to the Security credentials section.
 
 ![](
