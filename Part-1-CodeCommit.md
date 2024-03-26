@@ -31,7 +31,7 @@ In ‘HTTPS Git credentials for AWS CodeCommit’ section, click on ‘Generate 
 ![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part-1/17114422150461634421286555925973.jpg)
 Click on the Download credentials button to download your Git credentials and click on ‘close’.
 
-![](
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part-1/17114422274747054284241599923289.jpg)
 Git credentials is created.
 
 ![](
