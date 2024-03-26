@@ -67,17 +67,24 @@ Check status using command
 
 ```git status```
 
+![](
+https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/17114520280932298130353837620251.jpg)
 
 Add the new file to your local branch using the following command:
 
 ```
 git add <filename>
 ```
+![](
+https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/17114520362126277315065496932400.jpg)
 
 Commit the changes to your local branch using the following command:
 ```
 git commit -m "added new file"
 ```
+![](
+https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/17114520427632978915340616696705.jpg)
+
 Push the local changes to CodeCommit repository.
 
 Push the changes from your local branch to the CodeCommit repository using the following command:
