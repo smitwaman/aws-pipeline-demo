@@ -5,29 +5,39 @@ A Buildspec file is a YAML file that defines the build process for your CodeBuil
 
 Create a simple index.html file in CodeCommit Repository.
 
+
+
 you have to build the index.html using nginx server
 
 Create a code commit repository
-
+![](
+https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/Part-2/17114535971602120865382832364647.jpg)
 
 Copy clone HTTPS url
-
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/Part-2/17114536042676415166975994591861.jpg)
 
 In git bash, clone the repository to your local machine using the git clone command.
+
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/Part-2/171145361164477586233821721.jpg)
 
 
 Inside code commit repository create a index.html file
 
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/Part-2/1711453619079238138071737875581.jpg)
 
 Save the file and commit the changes to the repository using the git add and git commit commands.
-
+```
 git add <file-name>
+```
 
+```
 git commit -m "commit message"
+```
 
 Push the changes to the repository using the git push command.
-
+```
 git push origin master
+```
 
 You have a simple index.html file in your CodeCommit repository
 
