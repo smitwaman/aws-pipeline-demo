@@ -117,42 +117,59 @@ All the phase steps also succeeded.
 
 Click on ‘edit’ and select ‘Artifacts’.
 
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/Part2b/17114597179895117820606390097284.jpg)
 
 First create S3 bucket.
 
+![](
+https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/Part2b/17114597365322974699990926147804.jpg)
 
+
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/Part2b/17114597461496557616906468887337.jpg)
 
 bucket is successfully created.
 
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/Part2b/1711459752677703525044964789288.jpg)
 
 In Artifacts, select type Amazon S3 and select bucket name that you created in above step.
 
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/Part2b/17114597649366996475312311948823.jpg)
 
 Click on ‘Update artifacts’.
 
 After updating artifacts, click the “Start build” button again to start a new build.
 
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/Part2b/17114597815303335119744294689043.jpg)
 
 After the build process is complete, the artifacts will be uploaded to the specified S3 bucket location.
-
+![](
+https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/Part2b/17114598047511788987272489300104.jpg)
 
 In buildspec.yml file, inside artifacts phase there is a location of file which is /var/www/html/index.html. you can check that folders and index.html file inside s3 bucket.
 
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/Part2b/17114598157675536807795528312643.jpg)
 
 Inside bucket, demo_build folder is created.
 
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/Part2b/17114598475483579400588340177004.jpg)
 
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/Part2b/17114598571492708842167592669070.jpg)
 
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/Part2b/17114598647635284156661471633061.jpg)
+
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/Part2b/17114598777054465857032097117665.jpg)
+
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/Part2b/17114598884558451606303116800283.jpg)
 
 
 You can see inside /var/www/html there is index.html file.
-
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/Part2b/17114598971827413964945174749052.jpg)
 
 Click on ‘index.html’ file, below you can see properties of file.
 
 Click on ‘open’ on right-hand side.
 
-
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/Part2b/1711459905204134255873580672491.jpg)
 Here is an output of index.html file.
 
 
