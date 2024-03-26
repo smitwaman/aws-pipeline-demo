@@ -23,20 +23,18 @@ You need to setup Git Credentials in your AWS IAM.
 Go to the IAM console
 ![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part-1/17114421814297370581318621414267.jpg)
 Click on Users in the left-hand menu, and then click on your username.
-
-![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part-1/17114421922654049310732604512426.jpg)
 Scroll down to the Security credentials section.
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part-1/17114421922654049310732604512426.jpg)
 
-![](
 In ‘HTTPS Git credentials for AWS CodeCommit’ section, click on ‘Generate credentials’
 
 ![](
 Click on the Download credentials button to download your Git credentials and click on ‘close’.
 
-
+![](
 Git credentials is created.
 
-
+![](
 Use those credentials in your local and then clone the repository from CodeCommit
 
 In Code Commit, Go inside your repository that you created in above steps, in right-hand side click on ‘Clone URL’ and choose ‘Clone HTTPS’.
