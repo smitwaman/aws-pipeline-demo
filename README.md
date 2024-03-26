@@ -18,13 +18,17 @@ for that configuration we have used devops tools as.
 Similarly, we are going to deploy same pipeline for source code but with AWS resources on cloud platform.Here we need only AWS account and source code.
 
 🎯 CI/CD pipeline on AWS -Part-1
+
 ➡️ CodeCommit
 
 🎯 CI/CD pipeline on AWS -Part-2
+
 ➡️ CodeBuild
 
 🎯 CI/CD pipeline on AWS -Part-3
+
 ➡️ CodeDeploy
 
 🎯 CI/CD pipeline on AWS -Part-4
+
 ➡️ CodePipeline
