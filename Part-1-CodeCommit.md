@@ -9,7 +9,7 @@ Overall, CodeCommit provides developers with a reliable and efficient way to man
 Log in to the AWS Management Console and navigate to CodeCommit.
 
 Click on Create Repository.
-![](
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part-1/17114421333049127667631684455305.jpg)
 
 Enter a name for your repository and click on ‘Create’
 
