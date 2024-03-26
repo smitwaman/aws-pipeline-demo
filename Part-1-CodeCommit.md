@@ -12,7 +12,8 @@ Click on Create Repository.
 ![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part-1/17114421333049127667631684455305.jpg)
 
 Enter a name for your repository and click on ‘Create’
-
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part-1/17114421472736142380584481669075.jpg)
+![](
 
 
 Repository is successfully created.
