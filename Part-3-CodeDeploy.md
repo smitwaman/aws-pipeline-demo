@@ -2,16 +2,18 @@
 The application specification file (AppSpec file) is a YAML formatted or JSON-formatted file used by CodeDeploy to manage a deployment. The AppSpec file for an EC2/On-Premises deployment must be named appspec. yml or appspec.yaml , unless you are performing a local deployment.
 
 The appspec.yaml file is a configuration file that defines how the deployment should proceed. It specifies the deployment process, including which files should be deployed, where they should be deployed, and any scripts or hooks that should be executed during the deployment.
-
+```
 The appspec.yaml file typically includes the following sections:
 
 version: This section specifies the version of the AppSpec file format being used.
+
 os: This section specifies the operating system of the target instances.
+
 files: This section specifies the source and destination locations of the files to be deployed.
+
 hooks: This section specifies any scripts or hooks that should be executed during the deployment, such as scripts to stop and start the application.
 Deploy index.html file on EC2 machine using nginx
-For code commit and code build steps, please follow my Day 51 task article.
-
+```
 Create a CodeDeploy application:
 
 You need to create a CodeDeploy application to deploy your index.html file. You can do this in the AWS Management Console.
