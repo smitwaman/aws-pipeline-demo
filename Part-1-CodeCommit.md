@@ -91,14 +91,14 @@ Push the changes from your local branch to the CodeCommit repository using the f
 ```
 git push origin master
 ```
-
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/17114520503233092122354037925053.jpg)
 Verify that the changes have been pushed to the CodeCommit repository:
 
 Go to the code commit repository that you created earlier, you should see the new file listed in the repository’s files.
-
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/17114520567878882558560591652366.jpg)
 
 You can see content of the file.
-
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/17114520635432228890935110674166.jpg)
 
 
 
