@@ -17,7 +17,7 @@ Enter a name for your repository and click on ‘Create’
 
 
 Repository is successfully created.
-
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part-1/17114421719164887670126854897603.jpg)
 
 You need to setup Git Credentials in your AWS IAM.
 Go to the IAM console
