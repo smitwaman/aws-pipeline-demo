@@ -49,10 +49,11 @@ You have a simple index.html file in your CodeCommit repository
 Add buildspec.yaml file to CodeCommit Repository and complete the build process.
 
 Create a Buildspec file to build the file using an nginx server.
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part2a/17114547113774948188941236025751.jpg)
 
+                         buildspec.yml file
 
-buildspec.yml file
-
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part2a/17114547186974312492558118580084.jpg)
 
 Here’s what each step of the build does:
 
@@ -64,44 +65,55 @@ post_build: Performs any additional configuration for nginx, if necessary.
 artifacts: Specifies the location of the index.html file to be included in the build artifact.
 Save the file and commit the changes to the repository using the git add and git commit commands.
 
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part2a/17114547375087975509721650166791.jpg)
 
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part2a/17114547449806745603523752259234.jpg)
 
 Push the changes to the code commit repository
 
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part2a/17114547513715765125292468371737.jpg)
 
 You have a buildspec.yml and index.html file in your CodeCommit repository
+
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part2a/17114547597344871825517468354745.jpg)
 
 
 Create build project:
 
 Go to the CodeBuild service. Click the “Create build project” button.
-
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part2a/17114547666975096515312913245601.jpg)
 
 Fill in the details of your build project, including the project name, source provider (CodeCommit), repository, and branch.
-
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part2a/17114547746016564052602446272539.jpg)
 
 In source section, select source provider AWS CodeCommit, select Repository that you created earlier and select branch master.
 
-
+![](
+https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part2a/17114547834228215013218076141643.jpg)
 In Environment section, choose operating system, runtime ad image.
 
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part2a/1711454791854735279552924522528.jpg)
 
 Create a new service role and Under the “Buildspec” section, choose “Use a buildspec file”.
 
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part2a/17114548138184815183047437606977.jpg)
 
 Click “Create build project” to create your project.
 
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part2a/17114549504874873786184068356351.jpg)
 
 Successfully build project is created.
 
 Click the “Start build” button to start a new build.
 
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part2a/17114549583498154120108592828775.jpg)
 
 Check status of build which is Succeeded.
 
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part2a/17114549678595426416492775699594.jpg)
 
 All the phase steps also succeeded.
-
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part2a/17114549764803355757526166297171.jpg)
 
 ## Task-03: To add artifacts to a CodeBuild project and store them in an S3 bucket.
 
