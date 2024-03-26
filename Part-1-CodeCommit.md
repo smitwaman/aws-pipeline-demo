@@ -39,7 +39,7 @@ Use those credentials in your local and then clone the repository from CodeCommi
 
 In Code Commit, Go inside your repository that you created in above steps, in right-hand side click on ‘Clone URL’ and choose ‘Clone HTTPS’.
 
-
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part-1/17114422884498673032346891211904.jpg)
 Open a terminal on your local machine.
 
 Navigate to the directory where you want to clone the repository.
