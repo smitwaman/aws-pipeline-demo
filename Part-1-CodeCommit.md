@@ -60,6 +60,8 @@ You have now set up a CodeCommit repository and cloned it on your local machine 
 
 Create a new file in the local repository directory.
 
+![](
+https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/17114520181045940416386530328758.jpg)
 
 Check status using command 
 
