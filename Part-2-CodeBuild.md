@@ -90,7 +90,7 @@ Check status of build which is Succeeded.
 All the phase steps also succeeded.
 
 
-To add artifacts to a CodeBuild project and store them in an S3 bucket.
+Task-03: To add artifacts to a CodeBuild project and store them in an S3 bucket.
 
 Click on ‘edit’ and select ‘Artifacts’.
 
