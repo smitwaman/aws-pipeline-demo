@@ -1,5 +1,4 @@
-## Task-01 :
-Read about the Buildspec file for Codebuild.
+## Task-01 :Read about the Buildspec file for Codebuild.
 
 A Buildspec file is a YAML file that defines the build process for your CodeBuild project. It contains a series of commands that CodeBuild will execute to build and package your application.
 
@@ -45,8 +44,7 @@ You have a simple index.html file in your CodeCommit repository
 
 ![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/Part-2/17114536478216404259542343031508.jpg)
 
-## Task-02 :
-Add buildspec.yaml file to CodeCommit Repository and complete the build process.
+## Task-02 : Add buildspec.yaml file to CodeCommit Repository and complete the build process.
 
 Create a Buildspec file to build the file using an nginx server.
 ![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part2a/17114547113774948188941236025751.jpg)
