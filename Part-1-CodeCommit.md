@@ -34,7 +34,7 @@ Click on the Download credentials button to download your Git credentials and cl
 ![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part-1/17114422274747054284241599923289.jpg)
 Git credentials is created.
 
-![](
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/Part-1/17114422484606893200580683051067.jpg)
 Use those credentials in your local and then clone the repository from CodeCommit
 
 In Code Commit, Go inside your repository that you created in above steps, in right-hand side click on ‘Clone URL’ and choose ‘Clone HTTPS’.
