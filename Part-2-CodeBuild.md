@@ -29,18 +29,21 @@ Save the file and commit the changes to the repository using the git add and git
 ```
 git add <file-name>
 ```
-
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/Part-2/17114536252161975241423392912687.jpg)
 ```
 git commit -m "commit message"
 ```
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/Part-2/1711453631516611936119564807955.jpg)
 
 Push the changes to the repository using the git push command.
 ```
 git push origin master
 ```
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/Part-2/1711453641651706647128211171579.jpg)
 
 You have a simple index.html file in your CodeCommit repository
 
+![](https://github.com/smitwaman/aws-pipeline-demo/blob/main/images/images/Part-2/17114536478216404259542343031508.jpg)
 
 Task-02 :
 Add buildspec.yaml file to CodeCommit Repository and complete the build process.
